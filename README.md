@@ -1,2 +1,0 @@
-# JrTesla
-Just Young Tesla
